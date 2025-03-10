@@ -66,7 +66,7 @@ The model was trained using the following setup:
 
 ## Usage
 
-To use the model, you can load it with the following code:
+To use the model, load it with the following code:
 
 ```python
 import joblib
@@ -87,4 +87,4 @@ This will return the predicted potability for the given input data.
 
 ## Conclusion
 
-This **Machine Learning Approaches for Water Quality Assessment** is a powerful tool for analyzing and predicting water potability based on quality metrics. It's robust, accurate, and can be easily integrated into various applications where water quality analysis is required.
+This **Machine Learning Approaches for Water Quality Assessment** is a powerful tool for analyzing and predicting water potability based on quality metrics. It is accurate, robust, and can be easily integrated into various applications where water quality analysis is necessary.
