@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a machine learning model designed to predict the potability of water based on various quality metrics. The model leverages multiple classification algorithms to evaluate water quality parameters and determine whether the water is potable. The model has been trained and evaluated on a comprehensive dataset, achieving robust performance.
+This project presents a machine learning model designed to predict the potability of water based on various quality metrics. The model leverages multiple classification algorithms to evaluate water quality parameters and determine whether the water is potable. It has been trained and evaluated on a comprehensive dataset, achieving robust performance.
 
 ## Model Details
 
@@ -19,11 +19,11 @@ The model was trained on a dataset containing various water quality metrics, mak
 
 ## Intended Use
 
-This model is designed to predict the potability of water based on its quality metrics. You can use it for applications like:
+This model is designed to predict the potability of water based on its quality metrics. It can be used for applications such as:
 - Water quality monitoring
 - Environmental health assessments
 - Water treatment plant optimization
-- Any other application where analyzing water quality is useful
+- Any other application where analyzing water quality is useful.
 
 ## Limitations
 
